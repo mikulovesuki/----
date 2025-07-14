@@ -1,0 +1,113 @@
+PWD e:\暑假数模
+INPUT C:\Users\Administrator\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT e:\暑假数模\暑假建模.tex
+OUTPUT 暑假建模.log
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\article.cls
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Program Files\MiKTeX\tex\latex\base\size10.clo
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctex.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3kernel\expl3.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Program Files\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\engine\ctex-engine-pdftex.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctexhook.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctexpatch.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctexpatch.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fix-cm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fix-cm.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\ts1enc.def
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\config\ctexopts.cfg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\config\ctexopts.cfg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\engine\ctex-engine-pdftex.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\CJKutf8.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\CJKutf8.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\ifpdf.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\generic\iftex\iftex.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\inputenc.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\CJK.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\CJK.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\mule\MULEenc.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\CJK.enc
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\base\fontenc.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjkpunct\CJKpunct.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjkpunct\CJKpunct.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjkpunct\CJKpunct.spa
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjkpunct\CJKpunct.spa
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjkpunct\CJKpunct.spa
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\CJKspace.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\CJKspace.sty
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\UTF8\UTF8.bdg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\UTF8\UTF8.bdg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctexspa.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctexspa.def
+INPUT C:\Program Files\MiKTeX\tex\latex\hyperref\hyperref.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\zhnumber\zhnumber.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\zhnumber\zhnumber.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\zhnumber\zhnumber-utf8.cfg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\zhnumber\zhnumber-utf8.cfg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\scheme\ctex-scheme-chinese.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\scheme\ctex-scheme-chinese.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\config\ctex-name-utf8.cfg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\config\ctex-name-utf8.cfg
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Program Files\MiKTeX\tex\latex\tools\indentfirst.sty
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctex-c5size.clo
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\ctex-c5size.clo
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr7.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\fontset\ctex-fontset-windows.def
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\fontset\ctex-fontset-windows.def
+INPUT C:\Windows\Fonts\msyh.ttc
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\config\ctex.cfg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\config\ctex.cfg
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\UTF8\UTF8.enc
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\UTF8\UTF8.enc
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\UTF8\UTF8.chr
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\cjk\UTF8\UTF8.chr
+INPUT .\暑假建模.aux
+INPUT .\暑假建模.aux
+INPUT 暑假建模.aux
+OUTPUT 暑假建模.aux
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\fd\c70rm.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\fd\c70rm.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\fd\c70rm.fd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\zhmetrics\unisong\unisong65.tfm
+OUTPUT 暑假建模.pdf
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\zhmetrics\unisong\unisong5b.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\zhmetrics\unisong\unisong5e.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\zhmetrics\unisong\unisong6a.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi12.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmmi6.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy10.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy8.tfm
+INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmsy6.tfm
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\generic\ctex\zhmap\ctex-zhmap-windows.tex
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\generic\ctex\zhmap\ctex-zhmap-windows.tex
+INPUT C:\Users\Administrator\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\sfd\ttf2pk\UGBK.sfd
+INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\sfd\ttf2pk\Unicode.sfd
+INPUT 暑假建模.aux
+INPUT C:\Windows\Fonts\simsun.ttc
+INPUT C:\Windows\Fonts\simsun.ttc
+INPUT C:\Windows\Fonts\simsun.ttc
+INPUT C:\Windows\Fonts\simsun.ttc
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
+INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
