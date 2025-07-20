@@ -82,14 +82,6 @@ INPUT .\暑假建模.aux
 INPUT 暑假建模.aux
 OUTPUT 暑假建模.aux
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr17.tfm
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\fd\c70rm.fd
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\fd\c70rm.fd
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\latex\ctex\fd\c70rm.fd
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\zhmetrics\unisong\unisong65.tfm
-OUTPUT 暑假建模.pdf
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\zhmetrics\unisong\unisong5b.tfm
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\zhmetrics\unisong\unisong5e.tfm
-INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\tfm\zhmetrics\unisong\unisong6a.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr8.tfm
 INPUT C:\Program Files\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
@@ -104,10 +96,7 @@ INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\tex\generic\ctex\zhmap\ctex-
 INPUT C:\Users\Administrator\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\sfd\ttf2pk\UGBK.sfd
 INPUT C:\Users\Administrator\AppData\Roaming\MiKTeX\fonts\sfd\ttf2pk\Unicode.sfd
+OUTPUT 暑假建模.pdf
 INPUT 暑假建模.aux
-INPUT C:\Windows\Fonts\simsun.ttc
-INPUT C:\Windows\Fonts\simsun.ttc
-INPUT C:\Windows\Fonts\simsun.ttc
-INPUT C:\Windows\Fonts\simsun.ttc
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb
 INPUT C:\Program Files\MiKTeX\fonts\type1\public\amsfonts\cm\cmr10.pfb

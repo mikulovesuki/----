@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  14 JUL 2025 16:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.10)  20 JUL 2025 17:29
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -265,10 +265,6 @@ LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Trying to load font information for C70+rm on input line 7.
- (C:\Users\Administrator\AppData\Roaming\MiKTeX\tex/latex/ctex/fd\c70rm.fd
-File: c70rm.fd 2022/07/14 v2.5.10 Chinese font definition (CTEX)
-)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12.045> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -288,17 +284,17 @@ L3 programming layer <2022/07/14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3844 strings out of 473523
- 75749 string characters out of 5724673
+ 3794 strings out of 473523
+ 74591 string characters out of 5724673
  474695 words of memory out of 5000000
- 27020 multiletter control sequences out of 15000+600000
- 565203 words of font info for 55 fonts, out of 8000000 for 9000
+ 26983 multiletter control sequences out of 15000+600000
+ 564123 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,5n,83p,733b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on 暑假建模.pdf (1 page, 28733 bytes).
+ 80i,5n,83p,721b,348s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on 暑假建模.pdf (1 page, 9259 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
+ 11 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 17 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
