@@ -10,7 +10,7 @@
 \usepackage{forest}
 \setlength{\parindent}{2em} % 设置首行缩进为两个汉字宽度
 \everymath{\displaystyle}
-\title{}
+\title{基于浮动价格下的蔬菜商品补货与自动定价决策模型}
 \author{}
 \date{}
 \begin{document}
@@ -58,7 +58,21 @@
 
 \section{符号说明}
 
+$ Q $日销售量
 \section{数据预处理}
+
+\subsection{数据的整合与排查}
+为确保后续模型建立和计算的准确性和可靠性，对原始数据进行彻底的排查和整合十分重要。本研究将利用附件1（商品信息）、附件2（销售流水明细）、附件3（蔬菜批发价格）和附件4（商品近期损耗率）中提供的全部数据
+对其中的缺失值、异常值进行处理和排除，以便后续分析。
+\begin{itemize}
+    \item 异常值的处理：从附件中提取各个关键的数据，将数据按“销售日期”、“品类”和“单品名称”进行聚合，计算每日的销售总量和总金额，并进一步计算每日的平均销售单价。采用Z-Score方法检测异常值，设定阈值为3，剔除超过该阈值的异常数据。
+    \[
+\underset{\text{Z-Score方法公式}}{Z = \frac{x - \mu}{\sigma}}
+\]
+
+    \item 
+\end{itemize}
+
 
 \section{模型假设}
 
