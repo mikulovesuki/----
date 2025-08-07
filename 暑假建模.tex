@@ -8,6 +8,21 @@
 \usepackage{graphicx}
 \usepackage{indentfirst} % 使首段也缩进
 \usepackage{forest}
+\usepackage{listings}
+\usepackage{xcolor}
+\lstset{
+    backgroundcolor=\color{gray!10}, % 背景色
+    basicstyle=\ttfamily\small,      % 代码字体
+    keywordstyle=\color{blue},       % 关键字颜色
+    commentstyle=\color{gray},       % 注释颜色
+    stringstyle=\color{red!70!black},% 字符串颜色
+    numbers=left,                    % 行号显示在左侧
+    numberstyle=\tiny\color{gray},
+    breaklines=true,                 % 自动换行
+    frame=single,                    % 框架
+    tabsize=4,
+    language=Python
+}
 \setlength{\parindent}{2em} % 设置首行缩进为两个汉字宽度
 \everymath{\displaystyle}
 \title{基于浮动价格下的蔬菜商品补货与自动定价决策模型}
@@ -275,6 +290,8 @@ $ n_i \times m_i \geq 2.5kg$
 \ln Q_i = \beta_0 + \beta_1 \ln n_i + \cdots
 \]
 \[ M = e^{\beta_0 + \beta_1P_i} \times (P_i -\frac{T_i}{1-\rho} )\]
+
+
 \section{模型求解}
 
 
@@ -299,7 +316,7 @@ $ n_i \times m_i \geq 2.5kg$
     \caption{总销量自相关函数（ACF）分析结果}
     \label{fig:acf}
 \end{figure}
-得到在短的滞后阶段内，总销售量随时间变化呈现出明显的周期性，但在长远的时间周期上，销售总量呈现出较为稳定的特点，比较符合经济学和生活中的常识。
+得到在短的滞后阶段内，总销售量随时间变化呈现出明显的周期性，但在长远的时间周期上，销售总量呈现出较为稳定的特点，比较符合经济学和生活中的常识。接下来我们对日销售量数据进行时间分布规律的分析，得到各蔬菜品类的销售量随时间变化的趋势图，如图所示：
 %这里要有至少3张图
 
 \textit{商品定价分布规律模型}
@@ -315,7 +332,30 @@ $ n_i \times m_i \geq 2.5kg$
 %\section{模型检验}
 
 \section{模型优点和展望}
+\subsection{模型优点分析}
+\begin{itemize}
+    \item \textbf{问题一（关系分析）：} 本文在分析蔬菜品类间的关系时，不仅采用了传统的相关性分析方法，还从“时间分布规律”、“定价分布规律”以及“品类间销量分布规律”三个角度进行系统性建模。特别地，通过引入偏相关系数，有效剔除了宏观因素对销量相关性的干扰，更加准确地揭示了各品类间的内在联系。同时，利用ACF（自相关系数）方法对销量的周期性进行分析，充分体现了时间序列分析的科学性和严谨性。
 
+    \item \textbf{问题二（优化模型）：} 针对补货与定价决策，模型将损耗率直接纳入单位成本的计算，提出
+    \[
+    \text{单位销售成本} = \frac{\text{预测批发价格}}{1 - \text{损耗率}}
+    \]
+    的计算方式，较传统的损耗处理方法更为精确。销售量与定价关系采用经济学中经典的双对数模型
+    \[
+    \ln(\text{销售量}) = \beta_0 + \beta_1 \ln(\text{销售价格}) + \cdots
+    \]
+    进行拟合，理论基础扎实，参数解释明确。
 
+    \item \textbf{问题三（约束优化）：} 针对实际业务需求，模型在连续线性规划的基础上，进一步引入多重约束条件，将问题转化为分段连续或混合整数规划模型，能够更好地适应实际补货与定价的复杂场景。
+\end{itemize}
+\newpage
 
+\subsection{缺点与改进方向}
+\begin{itemize}
+    \item \textbf{部分假设和参数选择略显武断，需补充论证：} 在问题二的模型约束条件中，本研究采用最大销售量不超过历史最高的120\%  这是一个合理的约束，但这只是基于行业惯性和常识做出的限制，仍不够科学性、合理性，在查阅参考文献后，发现采用FP-Growth算法更为合理精确。
+
+    \item \textbf{模型复杂度：} 在问题三中，模型的复杂度较高，可能导致求解时间较长。未来可以考虑使用启发式算法或元启发式算法（如遗传算法、粒子群优化等）来加速求解过程。
+
+    \item \textbf{外部因素影响：} 模型未充分考虑外部因素（如天气、节假日等）对蔬菜销售的影响。未来可以通过引入更多的外部变量，增强模型的适应性和预测能力。
+\end{itemize}
 \end{document}
